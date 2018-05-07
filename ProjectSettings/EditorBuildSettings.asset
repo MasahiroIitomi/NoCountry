@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Start.unity
+    guid: 75e1f42f5cad45147b523cfb2a1fa893
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 9f5f2019a744f2741b2b5ee8fecc31c2
+  - enabled: 1
+    path: Assets/IceLake.unity
+    guid: e4df16fa30f1af544b460f4da1164db5
+  - enabled: 1
+    path: Assets/Mesa.unity
+    guid: 2c231d560f7cb4c43a1ea0959d383bf9
+  - enabled: 1
+    path: Assets/Swamp.unity
+    guid: 4a9806bc2492d724287d58c7107b6fd1
+  - enabled: 1
+    path: Assets/DawnRiver.unity
+    guid: 38c061b365c5f184a9a921c5a21ee4d1
+  - enabled: 1
+    path: Assets/EpicBeach.unity
+    guid: ec4b2037d4bf804479150848246bded2
+  - enabled: 1
+    path: Assets/BlackBox.unity
+    guid: 795d399346cf52644980260293ed1657
